@@ -10,7 +10,7 @@ permalink: "/travel-princeton/"
 ## General Notes
 A hotel block has been reserved at the Nassau Inn in Princeton, NJ, located adjacent to
 the Princeton University campus.  
-The workshop will be held on campus in Jadwin Hall.
+The 2024 Bootcamp will be held on campus in Lewis Library.
 It may be useful to review the [University webpages](http://www.princeton.edu/main/visiting/) about traveling to and visiting Princeton.
 
 Please send any questions about travel to the workshop to Andrea Rubinstein or Ian Cosden.
