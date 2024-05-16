@@ -62,9 +62,9 @@ Participants may use this time to explore the area, connect with other participa
 
 | Time | Session Title | Instructor(s)
 | 8:30 - 9:00 | Breakfast |  
-| 9:00 - 10:45 | Packaging & Distribution 1 | John Holland & <br/> Isabel Restrepo |
+| 9:00 - 10:45 | Packaging & Distribution Part 1 | John Holland & <br/> Isabel Restrepo |
 | 10:45 - 11:00 | Break | |
-| 11:00 - 12:15 | Packaging & Distribution 1 | John Holland & <br/> Isabel Restrepo |
+| 11:00 - 12:15 | Packaging & Distribution Part 2 | John Holland & <br/> Isabel Restrepo |
 | 12:15 - 1:15 | Lunch |  |
 | 1:15 - 3:00 | Testing Part 1 | Gabe Perez-Giz |
 | 3:00 - 3:15 | Break | |
