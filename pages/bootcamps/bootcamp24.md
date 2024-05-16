@@ -14,8 +14,7 @@ The INTERSECT Research Software Engineering Bootcamp will be a 4.5 day intensive
 # Agenda
 Please note this is preliminary and likely to change!  
 
-All instruction sessions will take place at Princeton University, Room 120 [Lewis Library]
-(https://maps.app.goo.gl/AxXdnym8RyguLjSZ9).
+All instruction sessions will take place at Princeton University, Room 120 [Lewis Library](https://maps.app.goo.gl/AxXdnym8RyguLjSZ9).
 
 ### Day 1 - Monday, July 15
 
