@@ -30,6 +30,8 @@ All instruction sessions will take place at Princeton University, Room 120 [Lewi
 | 3:15 - 4:45 | Documentation | Miranda Mundt |
 | 5:00 - 7:00 | Welcome Reception & Dinner | |
 
+*The Monday evening reception & dinner is [sponsored](#sponsors) by Princeton Research Computing.
+
 ### Day 2 - Tuesday, July 16
 
 | Time | Session Title | Instructor(s) |
@@ -44,6 +46,8 @@ All instruction sessions will take place at Princeton University, Room 120 [Lewi
 | 3:00 - 3:15 | Break | |
 | 3:15 - 4:45 | Licensing | Troy Comi |
 | 6:00 - 9:00 | Reception Dinner |  |
+
+*The Tuesday evening reception dinner is [sponsored](#sponsors) by Princeton Research Computing.
 
 ### Day 3 - Wednesday, July 17
 
@@ -102,6 +106,7 @@ Our INTERSECT [learner profiles]({{ site.url }}{{ site.baseurl }}/learner-profil
 <a name="sponsors"></a>
 # Sponsors
 Travel funding is provided via NSF.  
+Thanks to [Princeton Research Computing](https://researchcomputing.princeton.edu/) for supporting the reception dinners.
 
 # Questions
 Please email Ian Cosden (icosden@princeton.edu) and/or Jeff Carver (carver@cs.ua.edu).
