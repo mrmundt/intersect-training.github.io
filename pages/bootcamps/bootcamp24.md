@@ -27,7 +27,7 @@ All instruction sessions will take place at Princeton University, Room 120 [Lewi
 | 1:30 - 2:45 | Project Management | Miranda Mundt |
 | 2:45 - 3:15 | Break | |
 | 3:15 - 4:45 | Documentation | Miranda Mundt |
-| 5:00 - 7:00 | Welcome Reception & Dinner <br> Lewis Library Atrium | |
+| 5:00 - 7:00 | Welcome Reception & Dinner <br> Lewis Library Treehouse | |
 
 *The Monday evening reception & dinner is [sponsored](#sponsors) by Princeton Research Computing.
 
@@ -65,9 +65,9 @@ Participants may use this time to explore the area, connect with other participa
 
 | Time | Session Title | Instructor(s)
 | 8:30 - 9:00 | Breakfast |  
-| 9:00 - 10:45 | Packaging & Distribution Part 1 | John Holland & <br/> Isabel Restrepo |
+| 9:00 - 10:45 | Packaging & Distribution Part 1 | John Holland & <br/> George Dang |
 | 10:45 - 11:00 | Break | |
-| 11:00 - 12:15 | Packaging & Distribution Part 2 | John Holland & <br/> Isabel Restrepo |
+| 11:00 - 12:15 | Packaging & Distribution Part 2 | John Holland & <br/> George Dang |
 | 12:15 - 1:15 | Lunch |  |
 | 1:15 - 3:00 | Testing Part 1 | Gabe Perez-Giz |
 | 3:00 - 3:15 | Break | |
