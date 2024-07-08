@@ -27,7 +27,7 @@ All instruction sessions will take place at Princeton University, Room 120 [Lewi
 | 1:30 - 2:45 | Project Management | Miranda Mundt |
 | 2:45 - 3:15 | Break | |
 | 3:15 - 4:45 | Documentation | Miranda Mundt |
-| 5:00 - 7:00 | Welcome Reception & Dinner in Lewis Library Atrium | |
+| 5:00 - 7:00 | Welcome Reception & Dinner <br> Lewis Library Atrium | |
 
 *The Monday evening reception & dinner is [sponsored](#sponsors) by Princeton Research Computing.
 
