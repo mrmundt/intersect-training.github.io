@@ -192,10 +192,10 @@
 
 - description: 'Module introducing basics of software design.'
   name: Software Design
-  repository: https://github.com/INTERSECT-training/Design
+  repository: https://github.com/INTERSECT-training/software-design
   status: alpha
   videos: ''
-  webpage: https://intersect-training.org/Design/
+  webpage: https://intersect-training.org/software-design/
   id: design
 
 - description: 'Module introducing Python packaging and distribution.'
