@@ -24,8 +24,8 @@ All instruction sessions will take place at Princeton University, Room 120 [Lewi
 | 10:30 - 10:45 | Break | |
 | 10:45 - 12:30 | Design Part 2 | Julia Damerow |
 | 12:30 - 1:30 | Lunch |  |
-| 1:30 - 2:45 | Project Management | Miranda Mundt |
-| 2:45 - 3:15 | Break | |
+| 1:30 - 3:00 | Project Management | Miranda Mundt |
+| 3:00 - 3:15 | Break | |
 | 3:15 - 4:45 | Documentation | Miranda Mundt |
 | 5:00 - 7:00 | Welcome Reception & Dinner <br> Lewis Library Treehouse | |
 
