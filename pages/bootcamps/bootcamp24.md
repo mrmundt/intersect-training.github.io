@@ -26,7 +26,7 @@ All instruction sessions will take place at Princeton University, Room 120 [Lewi
 | 12:30 - 1:30 | Lunch |  |
 | 1:30 - 2:45 | Project Management | Miranda Mundt |
 | 2:45 - 3:15 | Break | |
-| 3:15 - 4:45 | Documentation | Miranda Mundt |
+| 3:15 - 4:45 | Licensing | Troy Comi |
 | 5:00 - 7:00 | Welcome Reception & Dinner <br> Lewis Library Treehouse | |
 
 *The Monday evening reception & dinner is [sponsored](#sponsors) by Princeton Research Computing.
@@ -43,7 +43,7 @@ All instruction sessions will take place at Princeton University, Room 120 [Lewi
 | 1:00 - 2:00 | Issue Tracking | Miranda Mundt |
 | 2:00 - 3:00 | Making Good PRs | Miranda Mundt |
 | 3:00 - 3:15 | Break | |
-| 3:15 - 4:45 | Licensing | Troy Comi |
+| 3:15 - 4:45 | Better Documentation | Miranda Mundt |
 | 6:00 - 9:00 | Reception Dinner at [Palmer House](https://palmerhouse.princeton.edu/)|  |
 
 *The Tuesday evening reception dinner is [sponsored](#sponsors) by Princeton Research Computing.
